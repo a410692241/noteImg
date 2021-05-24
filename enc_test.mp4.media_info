@@ -1,0 +1,31 @@
+bandwidth: 958635
+video_info {
+  codec: "avc1.640015"
+  width: 512
+  height: 288
+  time_scale: 90000
+  frame_duration: 6000
+  decoder_config: "\001d\000\025\377\341\000\031gd\000\025\254\310` \tl\004@\000\000\003\000@\000\000\007\243\305\213g\200\001\000\005h\351\273,\213\375\370\370\000"
+  pixel_width: 1
+  pixel_height: 1
+}
+init_range {
+  begin: 0
+  end: 1131
+}
+index_range {
+  begin: 1132
+  end: 2015
+}
+media_file_name: "enc_test.mp4"
+media_duration_seconds: 439.398163
+reference_time_scale: 90000
+container_type: CONTAINER_MP4
+protected_content {
+  default_key_id: "\335\271\n6\231\361R\366\262:\034\274\"\247@\305"
+  content_protection_entry {
+    uuid: "edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+    pssh: "\000\000\000-pssh\000\000\000\000\355\357\213\251y\326J\316\243\310\'\334\325\035!\355\000\000\000\r\"\00511231H\343\334\225\233\006"
+  }
+  protection_scheme: "cenc"
+}
